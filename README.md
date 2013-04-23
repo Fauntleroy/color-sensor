@@ -15,14 +15,16 @@ in JavaScript (Node.js), and it will be absolutely wonderful._
 _You should make sure you have the following items available before proceeding:_
 
  * Fancy-pants computer with USB ports and everything
- * Arduino UNO or compatible development board
- * Three (3) approximately 220 Ohm resistors
- * HC-SR04 Ultrasonic rangefinder
- * Common cathode RGB LED  
- * 1k Ohm resistor
+ * [Arduino UNO](http://amzn.to/13SRAPN) or compatible development board
+ * Three (3) approximately 220 Ohm resistors *
+ * [HC-SR04](http://amzn.to/ZlP1gF) Ultrasonic rangefinder
+ * Common cathode [RGB LED](http://amzn.to/Zju4HT)
+ * 1k Ohm resistor *
  * Photoresistor
  * USB cable
  * Jumpers
+
+_If you are purchasing resistors, it is best to buy a [resistor kit](http://amzn.to/11iFoBI) with various resistance values_
 
 ---
 # Obtain Codes
