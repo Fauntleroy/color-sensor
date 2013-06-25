@@ -18,7 +18,7 @@ _You should make sure you have the following items available before proceeding:_
  * [Arduino UNO](http://amzn.to/13SRAPN) or compatible development board
  * Three (3) approximately 220 Ohm resistors *
  * [HC-SR04](http://amzn.to/ZlP1gF) Ultrasonic rangefinder
- * Common cathode [RGB LED](http://amzn.to/Zju4HT)
+ * Common anode [RGB LED](http://amzn.to/Zju4HT)
  * 1k Ohm resistor *
  * Photoresistor
  * USB cable
